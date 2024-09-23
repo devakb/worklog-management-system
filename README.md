@@ -1,4 +1,4 @@
-# Developer Information
+# Work Log Management System Web Application Using PHP And Laravel
 
 **Amit Kumar Biswas**
 akbdeveloper01@gmail.com
